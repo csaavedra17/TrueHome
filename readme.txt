@@ -1,4 +1,4 @@
-Para ejecutar "pruebaTecnica.py" el archivo hay dos opciones:
+Para ejecutar el archivo "pruebaTecnica.py", hay dos opciones:
 
 Una para realizar nuevamente la extracción de los datos.
 La otra solo para realizar el análisis de la información.
